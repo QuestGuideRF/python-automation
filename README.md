@@ -374,7 +374,6 @@ url.svg("qrcode.svg", scale=8)
 python Python/finalmail.py
 ```
 
-
 ---
 Автор: legenda_god
 Telegram: https://t.me/FitoDomik
